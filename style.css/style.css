@@ -1,3 +1,13 @@
+:root {
+    --color-bg-nav: #2c3e50;
+    --color-bg-odd: #1abc9c;
+    --color-bg-footer: #3a546d;
+    --color-text-black: #333333;
+    --color-text-main: #ffffff;
+    --color-transparency: rgba(255, 255, 255, 0);
+  }
+
+
 .rm-debug{
     border: 1px solid red;
 }
@@ -22,3 +32,6 @@
 #portfolio-nav a.nav-link:hover{
     color: #1abc9c;
 }
+
+
+
